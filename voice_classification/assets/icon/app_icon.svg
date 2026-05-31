@@ -1,0 +1,22 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#252D6D"/>
+  
+  <!-- Microphone capsule (rounded top) -->
+  <ellipse cx="512" cy="300" rx="130" ry="180" fill="white"/>
+  
+  <!-- Microphone body -->
+  <rect x="382" y="420" width="260" height="220" fill="white"/>
+  
+  <!-- Microphone stand -->
+  <rect x="492" y="620" width="40" height="150" fill="#3E418A"/>
+  
+  <!-- Sound wave 1 -->
+  <circle cx="512" cy="512" r="280" fill="none" stroke="#C8C8C8" stroke-width="30" opacity="0.6"/>
+  
+  <!-- Sound wave 2 -->
+  <circle cx="512" cy="512" r="380" fill="none" stroke="#C8C8C8" stroke-width="25" opacity="0.4"/>
+  
+  <!-- Sound wave 3 -->
+  <circle cx="512" cy="512" r="480" fill="none" stroke="#C8C8C8" stroke-width="20" opacity="0.2"/>
+</svg>
